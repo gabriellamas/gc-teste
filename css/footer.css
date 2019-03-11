@@ -1,0 +1,45 @@
+footer{
+    background:#222538;
+    padding:10px 15px;
+    border-top: 1px solid #333548;
+}
+.bt-footer{
+    border-radius: 3px;
+    background-color: rgba(255, 255, 255, 0.06);
+    width: auto;
+    height: 34px;
+    cursor:pointer;
+    outline:none;
+    color: #b6b8c6;
+    font-size: 14px;
+    font-weight: 400;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding:0px 10px;
+}
+.bt-footer img{
+    margin-right:8px;
+}
+
+.online-players-area{
+    margin-right: 30px;
+}
+.data-number-footer{
+    font-family: 'teko', sans-serif;
+    font-size: 30px;
+    margin-right: 10px;
+}
+
+.footer-text-data{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    text-transform: capitalize;
+    font-family: 'poppinslight', sans-serif;
+}
+
+.footer-text-data span{
+    display:block;
+    width:100%;
+}

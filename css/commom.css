@@ -1,0 +1,61 @@
+body {
+    background: url('../img/bg-gc-body.png') #212338 no-repeat fixed center center;
+    font-family: 'poppinsmedium', sans-serif;
+    font-size: 16px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/*common*/
+.flex-area {
+    position: relative;
+    display: flex;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.a-items-center {
+    align-items: center;
+}
+
+.a-items-start {
+    align-items: flex-start;
+}
+
+.j-content-center {
+    justify-content: center;
+}
+
+.j-space-between {
+    justify-content: space-between;
+}
+.j-flex-start{
+    justify-content: flex-start;
+}
+.w-100{
+    width:100%;
+}
+strong{
+    font-weight:bold;
+}
+
+p, h3 {
+    color: #fff;
+    line-height: 1;
+}
+/*/common*/
+
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 1172px;
+    height: auto;
+    margin: 50px auto;
+    box-shadow: 0 8px 16px -4px rgba(0, 0, 0, 0.5);
+    border: 1px solid #333548;
+    border-radius: 2px;
+}
