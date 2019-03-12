@@ -1,6 +1,7 @@
 # Gamers Club Test
 
 Gabriel Lamas
+live link: [http://gabriellamas.com.br/gc-teste/](http://gabriellamas.com.br/gc-teste/)
 
 ## First clone project 
 ```html
