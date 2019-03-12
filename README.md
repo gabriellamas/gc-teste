@@ -2,13 +2,17 @@
 
 Gabriel Lamas
 
-## First install npm
+## First clone project 
+```html
+git clone https://github.com/gabriellamas/gc-teste.git
+```
 
+## Install npm
 ```html
 npm install
 ```
 
-## how to build and dev
+## How to build and dev
 
 Open project on terminal, and choose one command:
 
