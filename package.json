@@ -1,0 +1,27 @@
+{
+  "name": "gc-teste-gabriel",
+  "version": "1.0.0",
+  "description": "Gamers Club Test",
+  "main": "index.html",
+  "scripts": {
+    "build": "webpack --mode production js/index.js --output ./main.js",
+    "dev": "webpack --mode development js/index.js --output ./main.js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriellamas/gc-teste.git"
+  },
+  "author": "Gabriel Lamas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriellamas/gc-teste/issues"
+  },
+  "homepage": "https://github.com/gabriellamas/gc-teste#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  },
+  "dependencies": {
+    "clipboard": "^2.0.4"
+  }
+}

@@ -96,6 +96,7 @@
  }
  
  .bt-forfun-area{
+     position: relative;
      padding:0px;
      border-radius:3px;
      display:flex;
@@ -111,6 +112,7 @@
      height: 28px;
      text-decoration: none;
  }
+
  
  .bt-forfun-area.-green{
      background-color: #95b200;
